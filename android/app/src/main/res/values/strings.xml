@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">just-do-it</string>
+    <string name="title_activity_main">just-do-it</string>
+    <string name="package_name">just.do.it</string>
+    <string name="custom_url_scheme">just.do.it</string>
+</resources>
